@@ -1,0 +1,29 @@
+{
+  "Name": "Zero",
+  "Job": "전사",
+  "Level": 1,
+  "AttackPower": 10,
+  "DefensePower": 5,
+  "Health": 100,
+  "Gold": 1500,
+  "DungeonClearCount": 0,
+  "MaxHealth": 100,
+  "InventoryManager": {
+    "Inventory": []
+  },
+  "WeaponInventoryManager": {
+    "Inventory": []
+  },
+  "ArmorInventoryManager": {
+    "Inventory": []
+  },
+  "ConsumableInventoryManager": {
+    "Inventory": []
+  },
+  "WeaponEquipmentManager": {
+    "EquippedItems": []
+  },
+  "ArmorEquipmentManager": {
+    "EquippedItems": []
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.exe
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.deps.json
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.runtimeconfig.json
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.dll
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.pdb
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.dll
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.pdb
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ref\ConsoleGame.dll
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\2020y\source\repos\ConsoleApp1\ConsoleGame\ConsoleGame\obj\Debug\net8.0\ConsoleG.E8750121.Up2Date

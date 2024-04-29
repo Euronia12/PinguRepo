@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "09XemmxFZUvYjuykYppVB1KYNTXmoLR5vg3BSB4rXq/qF/d205mZRel9CT/8tFsBnEtPJMF1AZjgGydh+C0EZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2020y\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

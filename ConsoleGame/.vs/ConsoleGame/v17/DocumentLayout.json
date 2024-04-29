@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\levelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\levelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\restintown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\restintown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\equipmentmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\equipmentmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\inventorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\inventorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\2020y\\source\\repos\\consoleapp1\\consolegame\\consolegame\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886A4213-A5C1-4142-813B-9E7A7BBA48DE}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Game.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Game.cs",
+              "RelativeToolTip": "ConsoleGame\\Game.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:09:05.678Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestInTown.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\RestInTown.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\RestInTown.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\RestInTown.cs",
+              "RelativeToolTip": "ConsoleGame\\RestInTown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:25:33.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Character.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Character.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Character.cs",
+              "RelativeToolTip": "ConsoleGame\\Character.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAJIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:24:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Shop.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Shop.cs",
+              "RelativeToolTip": "ConsoleGame\\Shop.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAwCABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:32:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Item.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Item.cs",
+              "RelativeToolTip": "ConsoleGame\\Item.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:32:53.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Main.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Main.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Main.cs",
+              "RelativeToolTip": "ConsoleGame\\Main.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:27:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryManger.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\InventoryManger.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\InventoryManger.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\InventoryManger.cs",
+              "RelativeToolTip": "ConsoleGame\\InventoryManger.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:50:37.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipmentManger.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\EquipmentManger.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\EquipmentManger.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\EquipmentManger.cs",
+              "RelativeToolTip": "ConsoleGame\\EquipmentManger.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:52:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\ItemManager.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\ItemManager.cs",
+              "RelativeToolTip": "ConsoleGame\\ItemManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:12:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Dungeon.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\Dungeon.cs",
+              "RelativeToolTip": "ConsoleGame\\Dungeon.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAgwLEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:35:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelUp.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\LevelUp.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\LevelUp.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\LevelUp.cs",
+              "RelativeToolTip": "ConsoleGame\\LevelUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:31:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\SaveLoadManager.cs",
+              "ToolTip": "C:\\Users\\2020y\\source\\repos\\ConsoleApp1\\ConsoleGame\\ConsoleGame\\SaveLoadManager.cs",
+              "RelativeToolTip": "ConsoleGame\\SaveLoadManager.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:46:38.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
